@@ -1,6 +1,6 @@
 ---
 name: swarm
-description: Launch parallel agents, one lane each, to work through many issues at once. Use when the user says "swarm" and lists lanes (e.g. "swarm: ui, media, a11y, background") or has a backlog to split by responsibility. Plans first, works in worktrees, reviews in an approval ladder. Never ships.
+description: Launch parallel agents, one lane each, to work through many issues at once. Use when the user says "swarm" and lists lanes (e.g. "swarm - ui, media, a11y, background") or has a backlog to split by responsibility. Plans first, works in worktrees, reviews in an approval ladder. Never ships.
 ---
 
 # swarm
